@@ -17,7 +17,7 @@
 
 ## Disponibilização dos Gráficos interativos
 
-* Caso tenha interesse em observar de maneira mais detalhada e ter acesso aos gráficos interativos, basta acessar a pasta Histórias Tableau que está inclusa nesse repositório, lá você terá acesso a todas as histórias desenvolvidas a partir dos dados fornecidos pela nossa pesquisa interna e pela pesquisa do nosso parceiro.
+* Caso tenha interesse em observar de maneira mais detalhada e ter acesso aos gráficos interativos desenvolvidos no TABLEAU, basta acessar a pasta Histórias Tableau que está inclusa nesse repositório, lá você terá acesso a todas as histórias desenvolvidas a partir dos dados fornecidos pela nossa pesquisa interna e pela pesquisa do nosso parceiro.
 
 ## Análise exploratória
 
