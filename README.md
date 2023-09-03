@@ -1,11 +1,15 @@
 ![Imgur](https://i.imgur.com/Cdf5PFB.png)
 
 # Analise de Rotatividade
-*Compreender as motivações por trás da rotatividade de funcionários em uma empresa é fundamental para construir uma força de trabalho estável e produtiva. No ambiente empresarial dinâmico de hoje, é crucial examinar de perto as razões que levam os colaboradores a deixar a organização e os efeitos decorrentes dessa saída. A análise detalhada desses fatores não apenas lança luz sobre as áreas problemáticas dentro da empresa, mas também oferece insights valiosos para o desenvolvimento de estratégias de retenção de talentos eficazes. Neste contexto, explorar as causas subjacentes da saída dos funcionários e os impactos resultantes proporciona um ponto de partida sólido para identificar e implementar soluções que possam melhorar tanto o ambiente de trabalho quanto o desempenho organizacional como um todo. Este ensaio abordará através de gráficos esses aspectos cruciais, destacando a importância de investigar as razões por trás da saída dos funcionários, entender as consequências envolvidas e apresentar abordagens viáveis para lidar com esses desafios persistentes.*
+*Compreender as motivações por trás da rotatividade de funcionários em uma empresa é fundamental para construir uma força de trabalho estável e produtiva. No ambiente empresarial dinâmico de hoje, é crucial examinar de perto as razões que levam os colaboradores a deixar a organização e os efeitos decorrentes dessa saída. A análise detalhada desses fatores não apenas lança luz sobre as áreas problemáticas dentro da empresa, mas também oferece insights valiosos para o desenvolvimento de estratégias de retenção de talentos eficazes.*
 
 ![Imgur](https://i.imgur.com/vlCBK0t.png)
 
+*Neste contexto, explorar as causas subjacentes da saída dos funcionários e os impactos resultantes proporciona um ponto de partida sólido para identificar e implementar soluções que possam melhorar tanto o ambiente de trabalho quanto o desempenho organizacional como um todo.*
+
 ![Imgur](https://i.imgur.com/hvicr07.png)
+
+*Este ensaio abordará através de gráficos esses aspectos cruciais, destacando a importância de investigar as razões por trás da saída dos funcionários, entender as consequências envolvidas e apresentar abordagens viáveis para lidar com esses desafios persistentes.*
 
 ![Imgur](https://i.imgur.com/Hd9kSEh.png)
 
