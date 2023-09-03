@@ -24,6 +24,7 @@
 * O detalhamento da utilização de cada gráfico e dos cálculos aplicados a essa análise está disponível no notebook dentro da pasta Análise Exploratória inclusa nesse repositório.
 
 ## Tecnologias Utilizadas
+* ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 * ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
