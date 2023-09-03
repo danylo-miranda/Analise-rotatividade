@@ -15,6 +15,14 @@
 
 *Em resumo, a análise cuidadosa das razões para a saída dos colaboradores e dos efeitos resultantes não só revela áreas problemáticas internas, mas também oferece informações valiosas para o desenvolvimento de estratégias eficazes de retenção de talentos. Explorar as causas subjacentes da saída dos funcionários e seus impactos fornece um ponto de partida sólido para identificar e implementar soluções que possam melhorar o ambiente de trabalho e o desempenho organizacional como um todo. Em última análise, a abordagem baseada em dados, apoiada por gráficos e análises detalhadas, é fundamental para enfrentar os desafios persistentes relacionados à rotatividade de funcionários e para promover um ambiente de trabalho mais estável e produtivo.*
 
+## Disponibilização dos Gráficos interativos
+
+* Caso tenha interesse em observar de maneira mais detalhada e ter acesso aos gráficos interativos, basta acessar a pasta Histórias Tableau que está inclusa nesse repositório, lá você terá acesso a todas as histórias desenvolvidas a partir dos dados fornecidos pela nossa pesquisa interna e pela pesquisa do nosso parceiro.
+
+## Análise exploratória
+
+* O detalhamento da utilização de cada gráfico e dos cálculos aplicados a essa análise está disponível no notebook dentro da pasta Análise Exploratória inclusa nesse repositório.
+
 ## Tecnologias Utilizadas
 * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 * ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
