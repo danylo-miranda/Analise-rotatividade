@@ -1,7 +1,7 @@
+![Imgur](https://i.imgur.com/Cdf5PFB.png)
+
 # Analise de Rotatividade
 ## *Identificar os principais fatores que implicam no processo de demissão de funcionários*
-
-![Imgur](https://i.imgur.com/Cdf5PFB.png)
 
 ## Tecnologias Utilizadas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
