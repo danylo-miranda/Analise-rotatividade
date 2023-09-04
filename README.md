@@ -34,3 +34,4 @@
 ## Contato
 
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adm-danylo-miranda/)
+* [Gráficos Tableau](https://public.tableau.com/views/Anlisederotatividadedefuncionrios/Introduo?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
