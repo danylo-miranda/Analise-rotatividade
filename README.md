@@ -17,7 +17,7 @@
 
 ## Disponibilização dos Gráficos interativos
 
-* Caso tenha interesse em observar de maneira mais detalhada e ter acesso a todos os gráficos interativos desenvolvidos no TABLEAU, basta acessar a pasta Histórias Tableau que está inclusa nesse repositório, lá você terá acesso a todas as histórias desenvolvidas a partir dos dados fornecidos pela nossa pesquisa interna e pela pesquisa do nosso parceiro.
+* [Gráficos Tableau](https://public.tableau.com/views/Anlisederotatividadedefuncionrios/Introduo?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Análise exploratória
 
@@ -34,4 +34,3 @@
 ## Contato
 
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adm-danylo-miranda/)
-* [Gráficos Tableau](https://public.tableau.com/views/Anlisederotatividadedefuncionrios/Introduo?:language=pt-BR&publish=yes&:display_count=n&:origin=viz_share_link)
